@@ -93,12 +93,6 @@ Le iscrizioni sono aperte online tramite la piattaforma ufficiale della webapp.
 
 ---
 
-## 🤝 Sponsor & Partner
-
-Spazio dedicato ai partner dell’evento.
-
----
-
 ## 📞 Contatti
 
 - 📧 Email: info@rallyliguria.it  
@@ -109,3 +103,4 @@ Spazio dedicato ai partner dell’evento.
 
 # Vivi l’emozione del Rally della Liguria  
 ### Tra tradizione, passione e adrenalina 🚗💨
+
